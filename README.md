@@ -1,4 +1,4 @@
->#Alham-Saif
+Alham-Saif
  Hi there, I'm Alham-Saif :wave:
 ## :mortar_board: Education
 - **Degree**: Bachelor's in Computer Engineering. 
