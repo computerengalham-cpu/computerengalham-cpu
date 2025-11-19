@@ -1,4 +1,4 @@
-<img width="1831" height="816" alt="image" src="https://github.com/user-attachments/assets/79484926-9134-495b-a3d0-3787f8384de2" />#Alham-Saif
+>#Alham-Saif
  Hi there, I'm Alham-Saif :wave:
 ## :mortar_board: Education
 - **Degree**: Bachelor's in Computer Engineering. 
